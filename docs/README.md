@@ -8,3 +8,16 @@ metaLinks:
 
 # Technical Writing
 
+```mermaid
+sequenceDiagram    
+  participant User    
+  participant Frontend    
+  participant API    
+  participant Database        
+  User->>Frontend: Click "Login"    
+  Frontend->>API: POST /auth/login    
+  API->>Database: Query user    
+  Database-->>API: User data    
+  API-->>Frontend: JWT token    
+  Frontend-->>User: Redirect to dashboard
+```
