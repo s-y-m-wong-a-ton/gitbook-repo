@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Technical Writing](README.md)
+* [Introduction](README.md)
 
 ## Getting Started
 
-* [Quick Start](getting-started/quick-start.md)
+* [Quick start](getting-started/quick-start.md)
 
 ## API Documentation
 
