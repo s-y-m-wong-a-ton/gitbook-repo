@@ -8,6 +8,8 @@ metaLinks:
 
 # Technical Writing
 
+### How I use AI for technical writing
+
 ```mermaid
 sequenceDiagram    
   participant User    
