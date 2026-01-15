@@ -10,7 +10,7 @@ metaLinks:
 
 ### How I use AI
 
-As a technical writer, I use AI to generate content such as text, code, and diagrams.
+As a technical writer, I use AI to generate initial draft content such as text, code, and diagrams.
 
 #### Initial drafts
 
@@ -45,29 +45,21 @@ What I've learned is that AI tends to write sloppy code if you are not specific 
 
 #### Time-consuming tasks
 
-Use AI to perform miscellaneous tasks that cost time, e.g. formatting a table.
+Use AI to perform miscellaneous tasks that cost time, e.g. formatting tables.
 
 ### Tools
 
-I use the tools listed below when writing technical documentation.
+I use the following tools when writing technical documentation:
 
-Git
-
-GitHub
-
-Swagger/OpenAPI
-
-Visual Studio Code
-
-Mermaid
-
-Vale
-
-Hemingway Editor
+* Git
+* GitHub
+* Swagger/OpenAPI
+* Visual Studio Code
+* Mermaid
+* Vale
+* Hemingway Editor
 
 ### Documentation workflow
-
-
 
 ```mermaid
 sequenceDiagram    
