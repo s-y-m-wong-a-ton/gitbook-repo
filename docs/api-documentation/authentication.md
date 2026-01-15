@@ -32,6 +32,8 @@ Replace `YOUR_API_KEY` with your actual key.
 
 ### Example request
 
+#### **cURL**
+
 ```bash
 curl -X GET "https://api.taskflow.com/api/projects" \
   -H "Authorization: Bearer YOUR_API_KEY"
@@ -187,6 +189,6 @@ else:
 
 Now that you understand authentication:
 
-* [Make your first API call](quick-start.md)
-* [Explore available endpoints](api-reference.md)
-* [Learn about rate limiting](rate-limiting.md)
+* Make your first API call
+* Explore available endpoints
+* Learn about rate limiting
