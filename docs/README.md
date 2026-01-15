@@ -8,9 +8,20 @@ metaLinks:
 
 # Introduction
 
+**TaskFlow** is a fictional project management tool.
+
+Product overview:
+
+* Web-based project management software
+* Users: Project managers, team members, administrators
+* Features: Task creation, team collaboration, time tracking, reporting
+* Has a REST API for integrations
+
 ### How I use AI
 
 As a technical writer, I use AI to generate initial draft content such as text, code, and diagrams.
+
+
 
 #### Initial drafts
 
