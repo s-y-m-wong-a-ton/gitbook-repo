@@ -8,7 +8,9 @@ metaLinks:
 
 # Introduction
 
-**TaskFlow** is a fictional project management tool.
+### TaskFlow
+
+TaskFlow is a fictional project management tool.
 
 Product overview:
 
